@@ -1,4 +1,4 @@
-<span style="color: red;">r</style>
+<span style="color: red;">r</span>
 
 <!---
 Vladimirb87/Vladimirb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
